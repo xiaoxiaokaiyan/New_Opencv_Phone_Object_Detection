@@ -2,7 +2,7 @@
 
 ## News
 * this code 
-* [pytorch-yolo-v3 phone 物体检测](https://github.com/xiaoxiaokaiyan/New_Tensorflow_AE_VAE_FashionMnist_GAN_WGAN_Anime)
+* [pytorch-yolo-v3 phone 物体检测](https://github.com/xiaoxiaokaiyan/New_Pytorch-Yolo-V3_Object_Detection)
 
 
 ## Dependencies:
