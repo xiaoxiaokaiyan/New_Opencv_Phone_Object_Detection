@@ -1,4 +1,4 @@
-# 心得：**Opencv+phone 物体检测**
+# 心得：**Opencv+phone 物体检测(未使用GPU，延迟大)**
 
 ## News
 * this code 
@@ -51,3 +51,4 @@
 
 ## References:
 * [python+OpenCV+YOLOv3打开笔记本摄像头模型检测](https://blog.csdn.net/weixin_43590290/article/details/100736307)
+* [Windows+Cygwin+Darknet+OpenCV 简易上手实现YOLOv3目标检测](https://www.bilibili.com/video/BV1o54y1X7nk)
